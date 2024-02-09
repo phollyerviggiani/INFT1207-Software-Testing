@@ -88,4 +88,4 @@ def r_calc(pw_length, numletters, numdigits, numspecial):
     except:
         print(f"Please enter a valid number for special characters.")
     
-r_calc(10,4,3,3)
+r_calc(10,4,3,asd)
