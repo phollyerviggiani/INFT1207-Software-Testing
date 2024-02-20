@@ -2,8 +2,8 @@
 # Patrick Hollyer-Viggiani and Manish Singh
 # Test Case Design
 # February 11, 2024
-# Decription: Create a program that allows for the user to store book data in a csv file, allow the data that is stored to be permanent until deleted by user.
-#             Additionally, the user can select to add a book, search for a book, or end the program.
+# Decription: Create a program that allows for the user to store book data in a csv file, allow the data that is stored to be 
+#             permanent until deleted by user.  Additionally, the user can select to add a book, search for a book, or end the program.
 
 # Importing csv functionality
 import csv
